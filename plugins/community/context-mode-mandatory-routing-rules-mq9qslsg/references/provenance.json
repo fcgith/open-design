@@ -1,0 +1,33 @@
+{
+  "candidateId": "cf63e5a4-847a-4e13-93cd-05a46847b9e6",
+  "projectId": "72442261-f88b-44e2-a9e4-c8faf15c224d",
+  "runId": "930e5398-7297-418e-8009-5b0a725707a7",
+  "conversationId": "ebce40cc-e7f3-4cd1-9a05-f1bfffdf0873",
+  "provenance": {
+    "summary": "Detected from CLAUDE.md, README.md, SKILL.md after a successful run.",
+    "detectedAt": 1781193596212
+  },
+  "sourceRefs": [
+    {
+      "kind": "file",
+      "value": "CLAUDE.md",
+      "label": "CLAUDE.md",
+      "size": 3484,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "README.md",
+      "label": "README.md",
+      "size": 20080,
+      "copied": true
+    },
+    {
+      "kind": "file",
+      "value": "SKILL.md",
+      "label": "SKILL.md",
+      "size": 2398,
+      "copied": true
+    }
+  ]
+}
